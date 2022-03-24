@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atuikhar
+- 👋 Hi, I’m atuikhar
 - 👀 I’m interested in Web Dev , Programming and Everything Related to Technology.
 - 🌱 I’m currently learning FullStack Development
 - 💞️ I’m looking to collaborate on OpenSource Projects.
