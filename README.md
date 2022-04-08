@@ -1,9 +1,7 @@
 <div>	
 	
 - 👋 Hi, I’m atuikhar
-- 👀 I’m interested in Web Technologies.
-- 🌱 I’m currently learning FullStack Development
-- 💞️ I’m looking to collaborate on OpenSource Projects.
+- 👀 I’m interested in Web Technologies and OpenSource Projects
 - 📫 How to reach me ->  atuikhar@gmail.com
       
 
