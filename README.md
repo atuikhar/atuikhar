@@ -4,6 +4,7 @@
 <div align="center">	      
  <a href="https://github-readme-stats.vercel.app/api?username=atuikhar&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api?username=atuikhar&count_private=false&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atuikhar&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </a>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuikhar&theme=tokyonight" />
 </a>
