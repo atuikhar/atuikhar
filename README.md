@@ -7,7 +7,7 @@
 </a>
 <a>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=atuikhar&theme=tokyonight" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atuikhar&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atuikhar&show_icons=true&locale=en&theme=tokyonight"/>
 
 </a>
 </div>
